@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\aes_rsa_socket",
+    "\\dh_key_pair",
+    "\\hash",
+    "\\websocket"
+  ],
+  "SelectedNode": "\\websocket\\client.py",
+  "PreviewInSolutionExplorer": false
+}
